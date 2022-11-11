@@ -1,0 +1,17 @@
+Simulation Configuration
+
+Arrival Rate: 1
+Node 0 departure rate: 1, max queue length: 4
+Node 1 departure rate: 1, max queue length: 4
+Node 2 departure rate: 1, max queue length: 4
+Node 3 departure rate: 1, max queue length: 4
+Node 4 departure rate: 1, max queue length: 4
+Node 5 departure rate: 1, max queue length: 4
+Node 6 departure rate: 1, max queue length: 4
+Node 7 departure rate: 1, max queue length: 4
+Simulation is dynamic. Parameters:
+Drop Window: 30
+
+Discrepancy Threshold: 0.09
+Discrepancy Window: 2000
+Stationary Samples Number: 2000
